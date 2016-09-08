@@ -59,9 +59,9 @@ layout_data:
 
       code: |
         <div>
-          <span>A house of straw</span>
-          <span>A house of sticks</span>
-          <span>A house of bricks</span>
+          <div>A house of straw</div>
+          <div>A house of sticks</div>
+          <div>A house of bricks</div>
         </div>
 
       assertion: |
