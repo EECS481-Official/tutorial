@@ -58,7 +58,7 @@ layout_data:
 
       assertion: |
         assert(
-          dom.querySelector('#contrastValue').innerHTML === '7.05',
+          dom.querySelector('#contrastValue').innerHTML === '7.5',
           "Did you really use the Colour Contrast Check tool? Try again!"
         );
 ---
