@@ -94,7 +94,7 @@ layout_data:
           <p id="dateFormat">Note: This date will be recorded.</p>
         </div>
 
-    - title: Inaccessible Button exercise
+    - title: Inaccessible Button Exercise
       description: |
         Add an `aria-label` to the button below and label it 'search' to
         make it accessible.
@@ -112,7 +112,7 @@ layout_data:
         );
 
 
-    - title: Inaccessible Interactive Elements exercise
+    - title: Inaccessible Interactive Elements Exercise
       description: |
         Add an `aria-labelledby` to the input field below and point it to the `id` of the prompt span.
         Also, add an `aria-describedby` to the input field and point it to the description below to
@@ -140,7 +140,7 @@ layout_data:
           "It doesn't look like you added an aria-describedby to the input field"
         );
 ---
-Accessible labels are necessary to make several other types of elements 
+Accessible labels are necessary to make several other types of elements
 understandable,
 such as inputs, widgets, and ARIA landmark regions.
 Accessible labels that create a delightful experience are:
@@ -149,4 +149,3 @@ Accessible labels that create a delightful experience are:
 2. Meaningful -- accurately convey the purpose of the element.
 
 There are many ways to label an interactive element such as a button or an input field, which you will see below. You can check the results of adding the various label types by testing in your screen reader too!
-

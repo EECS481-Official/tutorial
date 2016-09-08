@@ -106,7 +106,7 @@ layout_data:
           </div>
         </div>
 
-    - title: Unsemantic Dialog exercise
+    - title: Unsemantic Dialog Exercise
       description: |
         The dialog below is unsemantic:
 
@@ -173,5 +173,5 @@ layout_data:
         );
 
 ---
-Dialogs are a little bit trickier to make accessible, but with a few key 
+Dialogs are a little bit trickier to make accessible, but with a few key
 principles, they can be made keyboard navigable and usable with screen readers.

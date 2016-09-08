@@ -50,7 +50,7 @@ layout_data:
           <div role="listitem">Sun</div>
         </div>
 
-    - title: Unsemantic List exercise
+    - title: Unsemantic List Exercise
       description: |
         Update the example below so that the items are expressed as a list. The easiest way to
         make this semantic is to use a list tag. If that is not
@@ -74,7 +74,6 @@ layout_data:
           "Wrap the items in an 'li' element or in a 'span' OR 'div' with the role 'listitem'."
         );
 ---
-Semantic lists help screen readers understand the type of the element and the 
+Semantic lists help screen readers understand the type of the element and the
 number of items in the element, and provide
 easier navigation via list commands specific to screen readers.
-

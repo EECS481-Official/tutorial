@@ -82,7 +82,7 @@ layout_data:
           </tr>
         </table>
 
-    - title: Unsemantic Table exercise
+    - title: Unsemantic Table Exercise
       description: |
         If the information is tabular, using CSS to create the appearance of a table makes the information
         almost impossible for a screen reader user to understand and use. Convert the following tabular data
@@ -131,4 +131,3 @@ layout_data:
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can
 read down columns and across rows, and even hear column and row headings as they do so.
-

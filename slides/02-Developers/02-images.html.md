@@ -17,7 +17,7 @@ layout_data:
           src="./images/inline-image.png"
         />
 
-    - title: Inaccessible Inline Image exercise
+    - title: Inaccessible Inline Image Exercise
       description: |
         This is an image without alt text. Turn on VoiceOver and listen to how it is read. Add an `alt`
         attribute "Facebook logo" to this image to make it accessible and test it again with VoiceOver.
@@ -34,10 +34,10 @@ layout_data:
           "It doesn't look like you added an alt to your image."
         );
 ---
-Screen readers interact with text on the screen. So, to convey the meaning of 
+Screen readers interact with text on the screen. So, to convey the meaning of
 an image to screen reader users,
 we put an accessible text label in the HTML. If an image is decorative, we can hide it from screen
-reader users by giving it an empty label (`alt=""`). After the completing the 
-exercise below, you can learn a lot more about writing good alt text for images 
-by checking out [WebAIM's resource on the 
+reader users by giving it an empty label (`alt=""`). After the completing the
+exercise below, you can learn a lot more about writing good alt text for images
+by checking out [WebAIM's resource on the
 topic](http://webaim.org/techniques/alttext/).
