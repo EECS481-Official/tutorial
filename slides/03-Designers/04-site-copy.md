@@ -1,6 +1,6 @@
 ---
 title: Copy Writing
-chapter: Designers
+chapter: Design Principles
 ---
 The content you write for your website or application matters a great deal for its usability and accessibility. The Web Content Accessibility Guidelines recommends that you use a reading ability equivalent of a <a href="http://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements">lower secondary education level</a>. That's a good, general rule of thumb to go by. Here are a few more:
 

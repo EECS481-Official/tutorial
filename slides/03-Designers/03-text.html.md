@@ -1,6 +1,6 @@
 ---
 title: Text Size
-chapter: Designers
+chapter: Design Principles
 style: |
   #container {
     font-size: 100%
