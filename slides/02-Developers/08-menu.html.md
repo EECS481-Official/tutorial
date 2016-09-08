@@ -2,11 +2,6 @@
 title: Menus
 chapter: Writing Code
 style: |
-  img {
-    width: 100px;
-    height: 100px;
-  }
-
   .popupMenuWidget {
     padding: 1em;
     position: relative;
