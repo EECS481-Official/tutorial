@@ -111,7 +111,7 @@ layout_data:
           </ul>
         </div>
 
-    - title: Inaccessible Menu exercise
+    - title: Inaccessible Menu Exercise
       description: |
         Update the example below to include the necessary markup for making
         this menu accessible. You should address the following issues.
@@ -211,6 +211,5 @@ layout_data:
         );
 
 ---
-Menus, like dialogs, rely on a few key principles to render them usable with 
+Menus, like dialogs, rely on a few key principles to render them usable with
 the keyboard or screen reader.
-
