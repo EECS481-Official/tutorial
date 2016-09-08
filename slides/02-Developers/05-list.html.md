@@ -3,11 +3,6 @@ title: Lists
 chapter: Writing Code
 
 style: |
-  img {
-    width: 100px;
-    height: 100px;
-  }
-
 layout_data:
   examples:
     - title: Semantic Lists Using HTML
