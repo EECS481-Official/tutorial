@@ -23,4 +23,6 @@ use the verify button to check whether your solution is correct.
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
+6. ChromeVox is a free Chrome extension that can be used as an alternative to VoiceOver for verifying code output. It is simliar in functionality to VoiceOver, and allows Windows users to understand how screen readers work.
+
 Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>
