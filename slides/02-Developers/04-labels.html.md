@@ -50,8 +50,8 @@ layout_data:
 
     - title: Using 'aria-labelledby'
       description: |
-        The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA,
-        we can instead use `aria-labelledby`.
+        Accessible Rich Intenet Applications (ARIA) allows for accessible navigation landmarks and numerous other features. The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA,
+        we can instead use `aria-labelledby`, which establishes a relationship between objects and their labels. VoiceOver uses this attribute to allow a user to navigate between objects in a document. 
 
       code: |
         <div>
@@ -67,7 +67,8 @@ layout_data:
     - title: Using 'aria-label'
       description: |
         In rare cases, the purpose of the input is visually obvious in context, but it's not obvious to someone
-        using a screen reader. We can provide contextual detail with `aria-label`.
+        using a screen reader. While similar to a simple 'label' attribute, aria-label is for cases where it isn't practical or desirable to have a label on screen. We can provide contextual detail with `aria-label`, which labels the current element 
+        where a text label is not shown on the screen.
 
       code: |
         <fieldset>
