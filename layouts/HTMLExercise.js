@@ -115,7 +115,7 @@ class Example extends React.Component {
             </button>
             {this.state.result.error ?
               <span className="text-danger" role="alert" tabindex={0}>
-                &nbsp;{this.state.result.error}
+                <br/><font color="red">{this.state.result.error}</font>
               </span> :
               null
             }
