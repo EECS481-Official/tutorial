@@ -6,7 +6,7 @@ We've covered a bunch of ground related to improving the accessibility of visual
 
 - Do I have sufficient contrast between text and my background?
 - Do I have sufficient contrast between UI elements and my background?
-- Are there any places where I'm color or other visual means alone to indicate something (ie, no text equivalent)?
+- Are there any places where I'm using color or other visual means alone to indicate something (ie, no text equivalent)?
 - Is my written content simple and easy to understand?
 - Are there any cases where the screen is flashing or flickering?
 - Does every mouse interaction have a keyboard-only equivalent interaction?
