@@ -29,10 +29,13 @@ layout_data:
         [More on fonts and accessibility in the WebAIM 
         site.](http://webaim.org/techniques/fonts/#font_size)
 
-        For the exercise below, you will need a browser like Safari that allows you to
+        For the exercise below, you will need a browser or OS that allows you to
         increase just the text size instead of zooming in the whole page. On Safari,
-        go to View and Zoom Text Only and then select Zoom In from the same menu. You
-        will notice that the words bleed outside the box below. Try fixing this example
+        go to View and Zoom Text Only and then select Zoom In from the same menu. On 
+        Android, go into Settings->Accessibility->Vision->Font size and set the size to
+        something suitable.
+
+        You will notice that the words bleed outside the box below. Try fixing this example
         by specifying the width and height as relative units, such as ems. Set the height
         to 3em and width to 10em and verify your answers.
 
