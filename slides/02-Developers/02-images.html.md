@@ -39,5 +39,9 @@ an image to screen reader users,
 we put an accessible text label in the HTML. If an image is decorative, we can hide it from screen
 reader users by giving it an empty label (`alt=""`). After the completing the 
 exercise below, you can learn a lot more about writing good alt text for images 
-by checking out [WebAIM's resource on the 
-topic](http://webaim.org/techniques/alttext/).
+by checking out WebAIM's resource on the 
+topic. This document consists of different parts.
+Click [here](http://webaim.org/techniques/alttext/#basics/) for a basic overview of how alternative text works.
+Furthermore, by pressing on [this link](http://webaim.org/techniques/alttext/#context/) you can learn more about the role context plays in generating an appropriate alternative text.
+Next, you can learn more about functional images [here](http://webaim.org/techniques/alttext/#functional/), and about decorative images [here](http://webaim.org/techniques/alttext/#decorative/).
+Finally, for a more advanced alternative text tutorial, press [this link](http://webaim.org/techniques/alttext/#advanced).
