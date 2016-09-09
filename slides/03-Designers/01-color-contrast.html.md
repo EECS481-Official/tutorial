@@ -18,9 +18,9 @@ layout_data:
         Colour Contrast Check Tool</a> are examples of tools available online.
 
         For the two house icons below, the color contrast has been calculated
-        using the Colour Contrast Analyser. For your exercise below, please use the
+        using the Colour Contrast Analyser. For your exercise below, please open the
         <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
-        Colour Contrast Check Tool</a> to enter the background (#405865) and foreground (#FFFFFF) values specified here.
+        Colour Contrast Check Tool</a> and enter #405865 as the background value and #FFFFFF as the foreground value.
         The tool will show you the color contrast ratio. Please replace the 'x' below with the contrast of the third icon,
         e.g., `<span id='contrastValue'>2000</span>`.
 
