@@ -15,7 +15,8 @@ communicate information. By extension, using colors or patterns alone to
 indicate something will not be accessible to a blind users. In instances where 
 you are using color as an indicator (for instance, green for something active 
 and grey for something inactive), include a text equivalent description for the 
-state.
+state. Furthermore, colors shouldn't be used to emphasize various parts of text, it is
+better to either italicize, bold, or underline parts of text that should be emphasized.
 
 Here's an example where providing a very simple texture to a bar chart will aid in readability and understanding for someone with decreased color perception.
 
