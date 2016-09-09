@@ -3,6 +3,10 @@ title: Labeling Form Controls and Interactive Elements
 toc: Labels
 chapter: Writing Code
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
     .searchBtn {
       background-image: url('./images/search_icon.png');
       width: 30px;
@@ -140,7 +144,7 @@ layout_data:
           "It doesn't look like you added an aria-describedby to the input field"
         );
 ---
-Accessible labels are necessary to make several other types of elements 
+Accessible labels are necessary to make several other types of elements
 understandable,
 such as inputs, widgets, and ARIA landmark regions.
 Accessible labels that create a delightful experience are:
@@ -149,4 +153,3 @@ Accessible labels that create a delightful experience are:
 2. Meaningful -- accurately convey the purpose of the element.
 
 There are many ways to label an interactive element such as a button or an input field, which you will see below. You can check the results of adding the various label types by testing in your screen reader too!
-

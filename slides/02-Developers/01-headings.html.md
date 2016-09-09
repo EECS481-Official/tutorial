@@ -3,6 +3,10 @@ title: Headings
 chapter: Writing Code
 
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
   .fakeHeading {
     font-size: 20px;
     font-weight: bold;

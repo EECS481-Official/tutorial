@@ -211,6 +211,5 @@ layout_data:
         );
 
 ---
-Menus, like dialogs, rely on a few key principles to render them usable with 
+Menus, like dialogs, rely on a few key principles to render them usable with
 the keyboard or screen reader.
-

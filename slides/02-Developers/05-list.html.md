@@ -74,7 +74,6 @@ layout_data:
           "Wrap the items in an 'li' element or in a 'span' OR 'div' with the role 'listitem'."
         );
 ---
-Semantic lists help screen readers understand the type of the element and the 
+Semantic lists help screen readers understand the type of the element and the
 number of items in the element, and provide
 easier navigation via list commands specific to screen readers.
-

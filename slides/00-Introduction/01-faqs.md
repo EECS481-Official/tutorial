@@ -1,6 +1,11 @@
 ---
 title: FAQs
 chapter: Introduction
+style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
 ---
 Got questions about Teach Access and the Teach Access Tutorial? Fire away!
 
@@ -25,7 +30,7 @@ Here are a few resources to get you started:
 **What are some good, free, developer tools for accessibility?**
 
 - WAVE by WebAIM for general website accessibility: <http://wave.webaim.org/>
-- Juicy Studio's Readability Test: 
+- Juicy Studio's Readability Test:
 <http://juicystudio.com/services/readability.php>
 - Vischeck's Color Blindness Checker: <http://www.vischeck.com/>
 
