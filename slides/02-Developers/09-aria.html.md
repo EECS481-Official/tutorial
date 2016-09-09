@@ -42,7 +42,7 @@ layout_data:
       assertion: |
         var link = document.getElementById('landmarks');
         assert(
-          link.value === '3' || link.value === 'three',
+          link.value === '4' || link.value === 'four',
           "That is not the right number of landmarks on the page!"
         );
 
