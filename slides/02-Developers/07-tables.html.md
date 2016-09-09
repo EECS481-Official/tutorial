@@ -3,6 +3,10 @@ title: Tables
 chapter: Writing Code
 
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
 
   .editorWithPreview > .editor,
   .editorWithPreview > .preview {
@@ -131,4 +135,3 @@ layout_data:
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can
 read down columns and across rows, and even hear column and row headings as they do so.
-

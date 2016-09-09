@@ -2,6 +2,10 @@
 title: Color Contrast
 chapter: Design Principles
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
   .editorWithPreview > .editor {
     max-width: 65%;
   }
@@ -63,4 +67,3 @@ layout_data:
         );
 ---
 Sufficient color contrast allows people to clearly see content on the page.
-

@@ -3,6 +3,10 @@ title: ARIA
 chapter: Writing Code
 
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
   .container {
     font-size: 100%
     width: 120px;
@@ -51,33 +55,32 @@ layout_data:
 
         There are several types of landmark roles. Some of them are:
 
-        - `<main>`,`<div role="main">` -- Equivalent to “directing the gaze” of 
-        the screen reader user. Should contain only the primary content of the 
+        - `<main>`,`<div role="main">` -- Equivalent to “directing the gaze” of
+        the screen reader user. Should contain only the primary content of the
         page.
 
-        - `<nav>`,`<div role="navigation">` -- contains a set of links or 
+        - `<nav>`,`<div role="navigation">` -- contains a set of links or
         elements for navigating the site
 
-        - `<aside>`, `<div role="complementary">` - content that supplements 
+        - `<aside>`, `<div role="complementary">` - content that supplements
         the main content
 
         - `<div role="search">` - search widget
 
         - `<header>`, `<div role="banner">` - the banner of the page
 
-        - `<footer>`, `<div role="contentinfo">` - information about the page 
-        such as copyright, help, and information links that appear in the 
+        - `<footer>`, `<div role="contentinfo">` - information about the page
+        such as copyright, help, and information links that appear in the
         footer
 
-        [Other ARIA roles are documented in the WCAG 
+        [Other ARIA roles are documented in the WCAG
         spec.](http://www.w3.org/TR/wai-aria/roles#document_structure_roles)
 
-        [More about ARIA states and 
+        [More about ARIA states and
         properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
 
 ---
 ARIA or [Accessible Rich Internet
-Applications](http://www.w3.org/WAI/intro/aria.php) provides a framework of 
+Applications](http://www.w3.org/WAI/intro/aria.php) provides a framework of
 roles, properties, and guidelines to help
 develop accessible user interactions.
-

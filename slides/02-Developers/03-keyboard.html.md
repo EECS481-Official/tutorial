@@ -57,12 +57,12 @@ layout_data:
         );
 
 ---
-Make all interactive elements work with  a keyboard. For example, make sure a 
+Make all interactive elements work with  a keyboard. For example, make sure a
 button that you activate
 with a click is also in the keyboard tab sequence and that pressing enter or space
-activates it. Set the `tabindex` attribute to `0` to include an element in the 
-browser's keyboard tab sequence.  If you want an element out of sequence, set 
-its `tabindex` to `-1` and use JavaScript to control its focus and tab 
-sequence, and related keyboard events. We do not recommend using `tabindex` 
-values greater than `0` even though browsers support them. Note that HTML links 
+activates it. Set the `tabindex` attribute to `0` to include an element in the
+browser's keyboard tab sequence.  If you want an element out of sequence, set
+its `tabindex` to `-1` and use JavaScript to control its focus and tab
+sequence, and related keyboard events. We do not recommend using `tabindex`
+values greater than `0` even though browsers support them. Note that HTML links
 and input elements have an implied `tabindex` of `0`.

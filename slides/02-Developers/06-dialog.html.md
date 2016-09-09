@@ -2,6 +2,10 @@
 title: Dialogs
 chapter: Writing Code
 style: |
+  img {
+    width: 100px;
+    height: 100px;
+  }
   #slide {
     position: initial;
   }
@@ -173,5 +177,5 @@ layout_data:
         );
 
 ---
-Dialogs are a little bit trickier to make accessible, but with a few key 
+Dialogs are a little bit trickier to make accessible, but with a few key
 principles, they can be made keyboard navigable and usable with screen readers.
