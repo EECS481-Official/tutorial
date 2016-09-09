@@ -13,6 +13,10 @@
   height: auto
 }
 
+.editorWithPrevide > .editor .CodeMirror {
+  resize: both;
+}
+
 .editorWithPreview > .editor .CodeMirror-scroll {
   min-height: 70px;
 }
