@@ -24,6 +24,9 @@ layout_data:
         The tool will show you the color contrast ratio. Please replace the 'x' below with the contrast of the third icon,
         e.g., `<span id='contrastValue'>2000</span>`.
 
+        It is possible on modern Android phones to turn on high contrast text in the Accessibility options of the settings app. This allows
+        the text to be more readable to the visually impaired. 
+
       code: |
         <div>
           <div>
