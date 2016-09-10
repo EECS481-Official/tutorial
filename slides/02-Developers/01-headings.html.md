@@ -17,10 +17,12 @@ layout_data:
   examples:
     - title: Semantic Heading
       description: |
-        The heading below is a real heading and uses an `<h3>` tag. If you are on a
-        Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> and then press
-        <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> to jump to
-        a heading.
+        The heading below is a real heading and uses an `<h3>` tag. 
+        If you are on a Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> 
+        and then press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd>
+        to jump to a heading.
+        On a Windows computer, Narrator is enabled with <kbd>Win</kbd> + <kbd>Enter</kbd>
+        and then <kbd>CapsLock</kbd> + <kbd>j</kbd> is used to advance through headings.
       code: |
         <h3>A real heading</h3>
     - title: Unsemantic Heading exercise
