@@ -52,4 +52,7 @@ layout_data:
 People with low vision use browser zoom tools and assistive technology such as
 [ZoomText](http://www.aisquared.com/products/zoomtext/) to increase the size of 
 content on the screen. This exercise shows you the difference between zooming 
-all the content versus zooming just the text on the page.
+all the content versus zooming just the text on the page. Similarly, on Android
+it is possible to turn on Large Text in the accesibility options of the settings
+app, which makes the text on screen much larger and much more readable, while 
+not affecting anything else. 
