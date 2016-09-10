@@ -2,10 +2,6 @@
 title: Keyboard Navigation
 chapter: Writing Code
 style: |
-  img {
-    width: 100px;
-    height: 100px;
-  }
   .customButton {
     border: 1px solid black;
     width: 65px;
