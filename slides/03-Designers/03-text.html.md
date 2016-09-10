@@ -36,7 +36,20 @@ layout_data:
         by specifying the width and height as relative units, such as ems. Set the height
         to 3em and width to 10em and verify your answers.
 
-      code: |
+        
+    Try adding a 'class' attribute to the 'div' tag and then use that attribute inside
+    of a 'style' tag to change the height and width of the txt.
+
+    Example: 
+
+    <div id='container', class='txt'>
+        This text is too big
+    <div>
+    <style>
+        .txt { height: 3em; width: 10em; }
+    </style> 
+
+  code: |
         <div
           id='container'>
             Lorem ipsum dolor sit amet
