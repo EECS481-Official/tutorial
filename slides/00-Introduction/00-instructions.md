@@ -15,8 +15,16 @@ use the verify button to check whether your solution is correct.
   * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) navigates to the next element
   * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> (repeatedly) navigates by headings
 <br><br>
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
-5.     ARIA stands for Accessible Rich Internet Applications, a W3C standard for building accessible user interfaces on the web.
+4. You can also verify the code sample output using Narrator - Microsoft's built-in screen reader. Here are some instructions for navigating with VoiceOver:
+  * Navigate to the Ease Access menu within Windows 10 Settings. Click the narrator switch to turn it off/on
+  * <kbd>caps lock</kbd> + <kbd>spacebar</kbd> to turn scan mode off/on
+  * <kbd>ctrl</kbd> + <kbd>left/right arrow</kbd> navigates to previous/next word respectively
+  * <kbd>ctrl</kbd> + <kbd>up/down arrow</kbd> navigates to previous/next paragraphs respectively
+<br><br>
+
+5. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+
+6.     ARIA stands for Accessible Rich Internet Applications, a W3C standard for building accessible user interfaces on the web.
 
 Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>
