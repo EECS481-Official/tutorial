@@ -13,7 +13,7 @@ and editing the files in `slides/`.
 
 ---
 
-If you want to generate the presentation on your compute, you need to
+If you want to generate the presentation on your computer, you need to
 
 1. Install exerslide globally. Exerslide is using Node, you can install it via 
    [npm](https://www.npmjs.com/):
@@ -36,3 +36,11 @@ If you want to generate the presentation on your compute, you need to
 
 Now you can generate the presentation. `exerslide serve` will start local 
 webserver and automatically regenerate the presentation when you update slides.
+
+Note: If you get an error after npm install, try running these commands to clear the cache
+   ```
+   sudo npm cache clean -f
+   sudo npm install -g n
+   sudo n stable
+   ```
+Then `exerslide serve` as usual.

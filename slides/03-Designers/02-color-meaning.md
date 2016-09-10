@@ -20,11 +20,13 @@ state.
 Here's an example where providing a very simple texture to a bar chart will aid in readability and understanding for someone with decreased color perception.
 
 <figure>
-  <img src="./images/color-meaning-solid.png" alt="Chart showing bar graph without texture">
+  <img src="./images/color-meaning-solid.png" alt="Chart showing horizontal bar graph with bars of different colors without texture">
   <figcaption>Figure A: Chart without Texture</figcaption>
 </figure>
 
 <figure>
-  <img src="./images/color-meaning-texture.png" alt="Chart showing bar graph with distinct textures for each bar">
+  <img src="./images/color-meaning-texture.png" alt="Chart showing horizontal bar graph with bars of different colors with distinct textures for each bar">
   <figcaption>Figure B: Chart with Texture </figcaption>
 </figure>
+
+As you can see, if a person cannot perceive the contrast between these colors, adding patterns to the bars can help with this. Be careful about picking patterns that are too similar. As always, make sure these graphs are well documented for users using VoiceOver.

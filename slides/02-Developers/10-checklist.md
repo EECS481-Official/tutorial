@@ -13,6 +13,7 @@ We've covered a bunch of ground related to accessible software development. One 
 - Are error messages interpretable by assistive technology?
 - Do you have sufficient foreground and background color contrast?
 - Have captions been included with any audio or audio/visual media?
+- If your website/application can be accessed from mobile devices or tablets, do these features work properly on them?
 
 There are also a number of free tools available for assessing the accessibility:
 
