@@ -9,7 +9,7 @@ Welcome to the Teach Access Tutorial! This resource is part of the Teach Access 
 2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,
 use the verify button to check whether your solution is correct.
 
-3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
+3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver on a computer:
     * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off
     * <kbd>tab</kbd> navigates to an interactive element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) 
@@ -17,6 +17,10 @@ use the verify button to check whether your solution is correct.
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
     <br/><br/>
+You can also turn on VoiceOver on an iPhone device so long it has iOS 3+ by going to Settings -> General -> Accessibility -> VoiceOver and turning on the "VoiceOver" button. There are additional settings you can play around with that can tailor VoiceOver for a better individual experience, but the basic ideas are: 
+	* Tap once to select an item and hear a description
+	* Double-tap to activate the selected item, such as when navigating to an app
+	* Swipe with three fingers to scroll, such as when swiping between multiple pages of apps
 
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
