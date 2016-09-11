@@ -18,12 +18,16 @@ layout_data:
         In the example below, the list is correctly announced by screen readers as a list with three items.
 
         1. Turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd>.
+           Windows: Turn on Narrator with <kbd>Windows</kbd> + <kbd>Enter</kbd>
 
         2. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you have jumped to the Editor Output heading.
+           Windows: Jump headings using <kbd>Caps</kbd> + <kbd>J</kbd>
 
         3. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>.
+           Windows: Press <kbd>Caps</kbd> + <kbd>Right Arrow</kbd>
 
         VoiceOver will announce 'List 3 items'.
+        Narrator will announce 'Contains 3 items'.
 
       code: |
         <ul>
@@ -74,7 +78,6 @@ layout_data:
           "Wrap the items in an 'li' element or in a 'span' OR 'div' with the role 'listitem'."
         );
 ---
-Semantic lists help screen readers understand the type of the element and the 
+Semantic lists help screen readers understand the type of the element and the
 number of items in the element, and provide
 easier navigation via list commands specific to screen readers.
-

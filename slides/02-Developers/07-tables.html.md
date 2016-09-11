@@ -56,10 +56,10 @@ layout_data:
         The following table uses semantic table markup. HTML provides many elements and attributes to create fully
         accessible tables. Note: ARIA 1.0 does not include HTML table equivalence; that is coming in ARIA 1.1. So
         it is best to stick to native HTML unless you are building an interactive grid that includes two-dimensional
-        arrow key navigation of the table content. To test the table below with VoiceOver:
+        arrow key navigation of the table content. To test the table below with voice narration:
 
-        1. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you reach the Editor Output region.
-        2. Now press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells.
+        1. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you reach the Editor Output region. <kbd>Caps</kbd> + <kbd>J</kbd> in Windows.
+        2. Now press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells. <kbd>Caps</kbd> + <kbd>Right Arrow</kbd> in Windows.
 
         At this time, VoiceOver does not read the column headers in Chrome. However, VoiceOver does read them in Safari. Windows screen readers typically read column and row headers as well.
 
@@ -131,4 +131,3 @@ layout_data:
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can
 read down columns and across rows, and even hear column and row headings as they do so.
-

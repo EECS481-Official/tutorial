@@ -20,14 +20,14 @@ layout_data:
         The heading below is a real heading and uses an `<h3>` tag. If you are on a
         Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> and then press
         <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> to jump to
-        a heading.
+        a heading. If you are on Windows, enable Narrator with <kbd>Windows</kbd> + <kbd>Enter</kbd> and jump headings with <kbd>Caps</kbd> + <kbd>J</kbd>.
       code: |
         <h3>A real heading</h3>
     - title: Unsemantic Heading exercise
       description: |
         The heading below is a fake heading made to look like a heading with an
         unsemantic `<div>`. Change the `<div>` below to use an `<h3>` tag. Now verify your semantic heading using the Verify button as well as
-        with VoiceOver.
+        with voice narration.
       code: |
         <div class="fakeHeading">
           A fake heading
