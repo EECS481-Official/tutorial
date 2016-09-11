@@ -193,4 +193,12 @@ body {
   #exerslide-main {
     overflow-x: hidden;
   }
+
+  .fa-bars{
+      font-size: 2em;
+  }
+
+  .fa-chevron-left{
+      font-size: 2em;
+  }
 }
