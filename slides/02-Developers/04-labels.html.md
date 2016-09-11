@@ -72,9 +72,9 @@ layout_data:
       code: |
         <fieldset>
           <legend>Telephone</legend>
-          <input id="one" type="number" aria-label="Area Code">
-          <input type="number" aria-label="Exchange Code">
-          <input type="number" aria-label="Line Number">
+          <input id="one" type="text" aria-label="Area Code">
+          <input type="text" aria-label="Exchange Code">
+          <input type="text" aria-label="Line Number">
         </fieldset>
 
     - title: Using 'aria-describedby'
