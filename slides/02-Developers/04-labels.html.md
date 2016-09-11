@@ -21,6 +21,11 @@ style: |
     #dateFormat {
       font-size: 13px;
     }
+    
+    #telephone input {
+      width: 90px;
+      display: block;
+    }
 
 layout_data:
   examples:
@@ -70,11 +75,11 @@ layout_data:
         using a screen reader. We can provide contextual detail with `aria-label`.
 
       code: |
-        <fieldset>
+        <fieldset id="telephone">
           <legend>Telephone</legend>
-          <input id="one" type="number" aria-label="Area Code">
-          <input type="number" aria-label="Exchange Code">
-          <input type="number" aria-label="Line Number">
+          <input id="one" type="text" aria-label="Area Code">
+          <input type="text" aria-label="Exchange Code">
+          <input type="text" aria-label="Line Number">
         </fieldset>
 
     - title: Using 'aria-describedby'
