@@ -16,6 +16,11 @@ use the verify button to check whether your solution is correct.
     navigates to the next element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
+    <br/>
+	For mobile users, you can activate VoiceOver through the Settings application. Go to Settings/General/Accessibility/VoiceOver and toggle the VoiceOver option to "on". VoiceOver will automatically read anything you select.
+	* Tap once to select an item
+	* Double-tap to activate the selected item
+	* Swipe three fingers to scroll
     <br/><br/>
 
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
