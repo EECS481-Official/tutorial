@@ -63,4 +63,5 @@ layout_data:
         );
 ---
 Sufficient color contrast allows people to clearly see content on the page.
-
+One way that OS X users can help themselves to better see what is being displayed is to specify the contrast options in their system preferences. They can choose to invert colors, use grayscale, reduce transparency, specify how sharp the contrast will be, etc.
+However, it would be nice if the author of the application can convey the color contrast themselves instead of letting the users setting all those system preferences.
