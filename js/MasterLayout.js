@@ -15,7 +15,7 @@ import Toolbar from './components/Toolbar';
  * The master layout specifies the overall layout of the page, such as
  * the table of contents, a progress indicator and of course the slide itself.
  * The current slide component is passed as child to it.
- *
+ *  changed about nothing here
  * Be default the master layout renders a table of contents, navigation buttons
  * and the slide content:
  * added a meaningless comment RIGHT HERE
