@@ -9,7 +9,7 @@ Welcome to the Teach Access Tutorial! This resource is part of the Teach Access 
 2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,
 use the verify button to check whether your solution is correct.
 
-3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
+3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too. NVDA is a free screen reader for Windows). Here are some instructions for navigating with VoiceOver:
     * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off
     * <kbd>tab</kbd> navigates to an interactive element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) 
