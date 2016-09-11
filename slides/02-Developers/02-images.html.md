@@ -10,7 +10,7 @@ layout_data:
         This is an image with an alt text. Turn on VoiceOver if you are on a Mac, tab
         to the Editor Output section, and use <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>
         to navigate to these images. VoiceOver will announce the alt text. For the second image below, VoiceOver
-        will not announce anything meaningful since there is no alt text.
+        will not announce anything meaningful since there is no alt text. In windows, use <kbd>Caps lock</kbd> + <kbd>Right Arrow<kbd>.
       code: |
         <img
           alt="Teach Access Bridge logo"

@@ -17,9 +17,14 @@ use the verify button to check whether your solution is correct.
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
     <br/><br/>
+ On Windows, the equivalent is Narrator, but it only works with Internet Explorer or MS Edge for text that is not in the tab sequence. Here are some instructions for navigating with Narrator:
+ 	* <kbd>win</kbd> + <kbd>enter</kbd> turns Narrator on/off. Narrator can also be opened from the sign-in screen, from the ease of access button, or the ease of access setting from the settings app.
+ 	* <kbd>Caps lock</kbd> + <kbd>F1</kbd> shows a list of all narrator commands, or on touch screens, tap 3 times with 4 fingers.
+ 	*"Views" change how Narrator navigates apps and webpages. Items is the default view, which can be a button, a link, or text. Other views include characters, words, lines, paragraphs, headings, and landmarks. Change views with <kbd>Caps lock</kbd> + up/down, and navigate with <kbd>Caps lock</kbd> + left/right. Press <kbd>Caps lock</kbd> + <kbd>enter</kbd> to activate an item.
+ 	* <kbd>Caps lock</kbd> + <kbd>Spacebar</kbd> turns Scan Mode on or off, which allows fast navigation of pages. In Scan Mode, the up and down arrows navigate by line, <kbd>ctrl</kbd> + left/right navigates by word, and <kbd>ctrl</kbd> + up/down navigates by paragraph.
+ 	
 
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
-
+4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination. NB: the tables tutorial will require Safari on Mac for full functionality.
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
