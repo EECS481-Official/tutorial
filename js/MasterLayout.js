@@ -18,7 +18,7 @@ import Toolbar from './components/Toolbar';
  *
  * Be default the master layout renders a table of contents, navigation buttons
  * and the slide content:
- *
+ * added a meaningless comment RIGHT HERE
  * +----------------------------------------+
  * |+---------+ +--------------------------+|
  * ||         | | +-----------------------+||
@@ -59,4 +59,3 @@ MasterLayout.propTypes = {
    */
   children: React.PropTypes.node,
 };
-
