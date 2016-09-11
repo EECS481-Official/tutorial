@@ -70,12 +70,12 @@ layout_data:
         using a screen reader. We can provide contextual detail with `aria-label`.
 
       code: |
-        <fieldset>
-          <legend>Telephone</legend>
+        <div role="group" aria-labelledby="groupLabel">
+          <span id="groupLabel">Telephone</span>
           <input id="one" type="number" aria-label="Area Code">
           <input type="number" aria-label="Exchange Code">
           <input type="number" aria-label="Line Number">
-        </fieldset>
+        </div>
 
     - title: Using 'aria-describedby'
       description: |
