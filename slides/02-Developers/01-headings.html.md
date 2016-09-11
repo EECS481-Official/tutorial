@@ -21,6 +21,8 @@ layout_data:
         Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> and then press
         <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> to jump to
         a heading.
+
+        To enable VoiceOver in an iPhone go to Settings->General->Accessibility->VoiceOver and enable the VoiceOver button. Tapping once will select an item, Double-tap will activate the selected item and swiping with three fingers will enable scrolling.
       code: |
         <h3>A real heading</h3>
     - title: Unsemantic Heading exercise
