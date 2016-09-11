@@ -11,11 +11,11 @@ layout_data:
     - title: Color Contrast (C)
       description: |
         The Web Content Accessibility Guidelines <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html">
-        recommends a color contrast of 4.5:1</a> to meet color contrast guidelines.
+        **recommends a color contrast of 4.5:1**</a> to meet color contrast guidelines.
         You can use various color contrast checkers online to verify your color contrast
-        ratio. <a href="http://www.paciellogroup.com/resources/contrastanalyser/">Colour Contrast Analyser</a>
+        ratio. <a href="http://www.paciellogroup.com/resources/contrastanalyser/">**Colour Contrast Analyser**</a>
         and <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
-        Colour Contrast Check Tool</a> are examples of tools available online.
+        **Colour Contrast Check Tool**</a> are examples of tools available online.
 
         For the two house icons below, the color contrast has been calculated
         using the Colour Contrast Analyser. For your exercise below, please use the

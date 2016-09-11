@@ -4,8 +4,8 @@ chapter: Designers
 ---
 The content you write for your website or application matters a great deal for 
 its usability and accessibility. The Web Content Accessibility Guidelines 
-recommends that you use a reading ability equivalent of a [lower secondary 
-education level](http://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements).
+recommends that you use a reading ability equivalent of a **[lower secondary 
+education level](http://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements)**.
 That's a good, general rule of thumb to go by.  Here are a few more:
 
 - Avoid using directional language like “below” and “left/right.” These require

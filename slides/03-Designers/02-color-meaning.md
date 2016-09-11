@@ -7,8 +7,8 @@ style: |
   }
 ---
 Color blindness is the inability or decreased ability to see color or perceive 
-color differences. [Approximately 4.5% of the world's 
-population](https://nei.nih.gov/health/color_blindness/facts_about) are color 
+color differences. **[Approximately 4.5% of the world's 
+population](https://nei.nih.gov/health/color_blindness/facts_about)** are color 
 blind to some degree. In order to ensure that someone with color blindness can 
 successfully use your product, you cannot rely completely on color alone to 
 communicate information. By extension, using colors or patterns alone to 

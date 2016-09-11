@@ -69,15 +69,15 @@ layout_data:
         such as copyright, help, and information links that appear in the 
         footer
 
-        [Other ARIA roles are documented in the WCAG 
-        spec.](http://www.w3.org/TR/wai-aria/roles#document_structure_roles)
+        **[Other ARIA roles are documented in the WCAG 
+        spec.](http://www.w3.org/TR/wai-aria/roles#document_structure_roles)**
 
-        [More about ARIA states and 
-        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
+        **[More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)**
 
 ---
-ARIA or [Accessible Rich Internet
-Applications](http://www.w3.org/WAI/intro/aria.php) provides a framework of 
+ARIA or **[Accessible Rich Internet
+Applications](http://www.w3.org/WAI/intro/aria.php)** provides a framework of 
 roles, properties, and guidelines to help
 develop accessible user interactions.
 
