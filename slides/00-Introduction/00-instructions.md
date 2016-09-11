@@ -18,6 +18,16 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
+   Windows 7/8/10 Instructions:
+   * <kbd>Windows</kbd> + <kbd>Enter</kbd> turns Narrator on/off (only works with IE and Edge)
+   * <kbd>Caps</kbd> + <kbd>Spacebar</kbd> enables Scan Mode
+	* <kbd>up/down arrow</kbd> navigates by line
+	* <kbd>right/left arrow</kbd> navigates by character
+	* <kbd>Ctrl</kbd> + <kbd>up/down arrow</kbd> navigates by paragraph
+	* <kbd>Ctrl</kbd> +<kbd>right/left arrow</kbd> navigates by word
+   * <kbd>Caps</kbd> + <kbd>J</kbd> jump to next heading
+   * <kbd>Caps</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd> jump to previous heading
+
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
