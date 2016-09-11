@@ -29,12 +29,16 @@ layout_data:
         [More on fonts and accessibility in the WebAIM 
         site.](http://webaim.org/techniques/fonts/#font_size)
 
-        For the exercise below, you will need a browser like Safari that allows you to
-        increase just the text size instead of zooming in the whole page. On Safari,
-        go to View and Zoom Text Only and then select Zoom In from the same menu. You
-        will notice that the words bleed outside the box below. Try fixing this example
-        by specifying the width and height as relative units, such as ems. Set the height
-        to 3em and width to 10em and verify your answers.
+        For the exercise below, you will need a browser that allows you to increase just
+        the text size instead of zooming in the whole page. On Safari, go to View and
+        Zoom Text Only and then select Zoom In from the same menu. Firefox and Internet
+        Explorer work the same way, except that you first need to press the Alt key once
+        to cause the View menu to appear at the top of the page. (Note that the option is
+        labeled "Zoom" in Firefox and "Text size" in Internet Explorer.) Unfortunately,
+        Google Chrome does not appear to support the feature. Once the text size has been
+        increased, you will notice that the words bleed outside the box below. Try fixing
+        this example by specifying the width and height as relative units, such as ems.
+        Set the height to 3em and width to 10em and verify your answers.
 
       code: |
         <div
