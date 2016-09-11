@@ -130,5 +130,7 @@ layout_data:
 ---
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can
-read down columns and across rows, and even hear column and row headings as they do so.
+read down columns and across rows, and even hear column and row headings as they do so. For greater
+accessibility, it is imperative that table is used to display only tabular data, and not used
+for various layouts.  
 
