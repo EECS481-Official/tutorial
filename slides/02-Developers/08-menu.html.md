@@ -209,7 +209,12 @@ layout_data:
           }),
           'Add the attribute `tabindex="-1"` to each of the `a` tag elements in the element with the ID `actionsMenu`'
         );
+      
+      note: |
 
+        [More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
+        
 ---
 Menus, like dialogs, rely on a few key principles to render them usable with 
 the keyboard or screen reader.

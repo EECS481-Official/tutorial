@@ -172,6 +172,11 @@ layout_data:
           "It doesn't look like you made the dialog heading semantic."
         );
 
+      note: |
+        
+        [More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
+
 ---
 Dialogs are a little bit trickier to make accessible, but with a few key 
 principles, they can be made keyboard navigable and usable with screen readers.
