@@ -53,9 +53,8 @@ layout_data:
     - title: Unsemantic List exercise
       description: |
         Update the example below so that the items are expressed as a list. The easiest way to
-        make this semantic is to use a list tag. If that is not
-        possible, wrap the elements in a container and give
-        it a role of ```list```. The individual items will need to be identified with a role of ```listitem```.
+        make this semantic is to use a list tag, such as <ul> or <ol>, and then wrap the contents in <li>. If that is not possible, wrap the elements in any container, such as a <div> and give
+        it a role of ```list``` by setting the role attribute inside the tag. In addition, the individual items will need to be identified with a role of ```listitem```.
 
       code: |
         <div>
