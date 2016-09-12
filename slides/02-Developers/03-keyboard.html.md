@@ -31,7 +31,7 @@ layout_data:
       description: |
         The button below is constructed using an unsemantic div. The easiest way to
         make this semantic is to use a real button or input tag. Here is another way. In the
-        example below, add
+        example below, add inside the div tag:
         1. `role='button'`
         2. `tabindex='0'`
 
