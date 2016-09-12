@@ -9,7 +9,10 @@ Welcome to the Teach Access Tutorial! This resource is part of the Teach Access 
 2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,
 use the verify button to check whether your solution is correct.
 
-3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
+3. Instructions will be given throughout for VoiceOver - Apple’s built-in screen reader, but there are some general instructions below for using NVDA, a popular free screen reader for Windows. 
+
+Here are some instructions for navigating with VoiceOver:
+
     * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off
     * <kbd>tab</kbd> navigates to an interactive element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) 
@@ -18,7 +21,17 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+Here are some instructions for navigating with NVDA:
+
+	* <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>N</kbd> turns NVDA on
+    * <kbd>tab</kbd> navigates to the next focusable element
+    * <kbd>down arrow</kbd> navigates to the next element and <kbd>enter</kbd> selects
+	* <kbd>insert</kbd> + <kbd><F7></kbd> opens a list of all elements for quick navigation via <kbd>up arrow</kbd> and <kbd>down arrow</kbd> 
+    * <kbd>H</kbd> navigates by headings
+	* for a full list of commands, see section 4.5 of the official NVDA documentation <a href="http://www.nvaccess.org/files/nvda/documentation/userGuide.html#toc26">at this link<a>
+    <br/><br/>
+
+4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. When verifying with NVDA, use firefox for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
