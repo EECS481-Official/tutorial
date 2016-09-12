@@ -17,6 +17,11 @@ use the verify button to check whether your solution is correct.
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
     <br/><br/>
+    VoiceOver on an Apple iOS device can be turned on in Settings under General->Accessibility->VoiceOver. Here are some instructions for navigating an iOS device with VoiceOver:
+    * Tapping once selects an item
+   	* Double-tapping activates the selected item
+   	* Swiping with three fingers scrolls
+    <br/><br/>
 
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
