@@ -20,7 +20,20 @@ use the verify button to check whether your solution is correct.
 
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
-5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
+5. If you are using this tutorial on a Windows 7/8/10 operating system, you can use Windows Narrator instead. Here are some instructions for navigating with Narrator:
+	* <kbd>Windows</kbd> + <kbd>Enter</kbd> turns Narrator on/off
+	* <kbd>Ctrl</kbd> stops reading
+	* <kbd>Caps Lock</kbd> + <kbd>Right arrow</kbd> moves to next item
+	* <kbd>Caps Lock</kbd> + <kbd>Left arrow</kbd> moves to previous item
+	* <kbd>Caps Lock</kbd> + <kbd>O</kbd> reads next line
+	* <kbd>Caps Lock</kbd> + <kbd>P</kbd> reads next word
+	* <kbd>Caps Lock</kbd> + <kbd>{</kbd> reads next character
+	* <kbd>Caps Lock</kbd> + <kbd>J</kbd> jumps to next heading
+	* <kbd>Caps Lock</kbd> + <kbd>L</kbd> jumps to next link
+	* If you are looking for more commands, you can hit <kbd>Caps Lock</kbd> + <kbd>F1</kbd> to show a list of all commands,
+		or <kbd>Caps Lock</kbd> + <kbd>F2</kbd> to show a list of all commands for the current item.
+
+6. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
 Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>

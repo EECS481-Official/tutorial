@@ -61,6 +61,11 @@ layout_data:
         1. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you reach the Editor Output region.
         2. Now press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells.
 
+        To test the table below with Narrator:
+
+        1. Press <kbd>Caps Lock</kbd> + <kbd>J</kbd> repeatedly until you reach the Editor Output region.
+        2. Now press <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells.
+
         At this time, VoiceOver does not read the column headers in Chrome. However, VoiceOver does read them in Safari. Windows screen readers typically read column and row headers as well.
 
       code: |

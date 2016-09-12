@@ -23,7 +23,15 @@ layout_data:
 
         3. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>.
 
-        VoiceOver will announce 'List 3 items'.
+        If you are on Windows 7/8/10, you can follow the following alternate instructions:
+
+        1. Turn on Narrator with <kbd>Windows</kbd> + <kbd>Enter</kbd>.
+
+        2. Press <kbd>Caps Lock</kbd> + <kbd>J</kbd> repeatedly until you have jumped to the Editor Output heading.
+
+        3. Press <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd>.
+
+        VoiceOver/Narrator will announce 'List 3 items'.
 
       code: |
         <ul>
