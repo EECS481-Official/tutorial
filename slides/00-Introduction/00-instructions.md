@@ -18,9 +18,12 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+4. While VoiceOver is recommended for this tutorial, Windows 10 users can start Narrator, a built-in voice reader, by pressing the <kbd>Windows Logo</kbd> + <kbd>Enter</kbd>, and see a list of keyboard commands by pressing <kbd>Caps Lock</kbd> + <kbd>F1</kbd>.
 
-5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
+5. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+
+
+6. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
 Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>
