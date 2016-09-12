@@ -42,7 +42,7 @@ layout_data:
       assertion: |
         var link = document.getElementById('landmarks');
         assert(
-          link.value === '3' || link.value === 'three',
+          link.value === '4' || link.value === 'four',
           "That is not the right number of landmarks on the page!"
         );
 
@@ -68,6 +68,9 @@ layout_data:
         - `<footer>`, `<div role="contentinfo">` - information about the page 
         such as copyright, help, and information links that appear in the 
         footer
+
+        For example in this tutorial four landmarks are listed in the menu: Natvigation,
+        slide:main, editor region, and slide navigation.
 
         [Other ARIA roles are documented in the WCAG 
         spec.](http://www.w3.org/TR/wai-aria/roles#document_structure_roles)
