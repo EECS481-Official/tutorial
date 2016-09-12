@@ -61,6 +61,10 @@ layout_data:
         1. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you reach the Editor Output region.
         2. Now press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells.
 
+        On Windows...
+        1. Use <kbd>Caps Lock</kbd> + <kbd>Up Arrow</kbd> until the Narrator says, "items".
+        2. Then press <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd> until you reach the table elements.
+
         At this time, VoiceOver does not read the column headers in Chrome. However, VoiceOver does read them in Safari. Windows screen readers typically read column and row headers as well.
 
       code: |
@@ -131,4 +135,3 @@ layout_data:
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can
 read down columns and across rows, and even hear column and row headings as they do so.
-

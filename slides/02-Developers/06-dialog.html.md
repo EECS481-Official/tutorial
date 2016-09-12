@@ -60,7 +60,7 @@ layout_data:
   examples:
     - title: Semantic Dialog
       description: |
-        Start VoiceOver if you are on your Mac and press enter on the Show Dialog button. You will notice that:
+        Start VoiceOver and press enter on the Show Dialog button. You will notice that:
         1. VoiceOver announces that a dialog is opened and the name of the dialog because
         we have a `role` of 'dialog' with a label associated using `aria-labelledby`.
         2. When the dialog opens, focus lands in the first focusable element in

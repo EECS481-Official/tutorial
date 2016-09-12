@@ -9,7 +9,7 @@ layout_data:
       description: |
         This is an image with an alt text. Turn on VoiceOver if you are on a Mac, tab
         to the Editor Output section, and use <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>
-        to navigate to these images. VoiceOver will announce the alt text. For the second image below, VoiceOver
+        to navigate to these images. VoiceOver will announce the alt text. For Windows PC users, hit <kbd>Caps Lock</kbd> + <kbd>Up Arrow</kbd> until the Narrator says "items."  Then, use <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd> to reach the image.  For the second image below, VoiceOver
         will not announce anything meaningful since there is no alt text.
       code: |
         <img
