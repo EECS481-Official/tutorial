@@ -13,7 +13,7 @@ layout_data:
     - title: Semantic Lists Using HTML
       description: |
         HTML provides tags that express lists. Most likely you are already familiar with the
-        `ul` (unordered list) and `ol` (ordered list) tags. For more information about these tags, visit www.w3schools.com/html/html_lists.asp
+        `ul` (unordered list) and `ol` (ordered list) tags.
 
         In the example below, the list is correctly announced by screen readers as a list with three items.
 
