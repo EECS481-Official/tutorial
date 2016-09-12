@@ -18,6 +18,15 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
+... or you can use Narrator on Windows.
+Here are some instructions for navigating with Narrator
+	* <kbd>Windows Key<kbd/> + <kbd>Enter<kbd/> turns Narrator on/off
+	* <kbd>Caps Lock<kbd/> + <kbd>j<kbd/> navigates to the next header
+	* <kbd>Esc<kbd/> brings up more options
+	* <kbd>Caps Lock<kbd/> + <kbd>F1<kbd/> brings up full list of commands
+	* <kbd>Caps Lock<kbd/> + <kbd>Right Arrow<kbd/> navigates to next element
+
+
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
