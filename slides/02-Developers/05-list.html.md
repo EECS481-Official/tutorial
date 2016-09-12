@@ -24,6 +24,8 @@ layout_data:
         3. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>.
 
         VoiceOver will announce 'List 3 items'.
+        
+        Windows users, please keep in mind that you will need to use <kbd>Caps Lock</kbd> + <kbd>Up Arrow</kbd> until the Narrator says, "items" and then use <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd> until you hit the list element.  Only then will the narrator announce how many items are in the list.
 
       code: |
         <ul>
@@ -77,4 +79,3 @@ layout_data:
 Semantic lists help screen readers understand the type of the element and the 
 number of items in the element, and provide
 easier navigation via list commands specific to screen readers.
-

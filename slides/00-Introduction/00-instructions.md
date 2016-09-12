@@ -9,16 +9,27 @@ Welcome to the Teach Access Tutorial! This resource is part of the Teach Access 
 2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,
 use the verify button to check whether your solution is correct.
 
-3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
+3. You can also verify the code sample output using VoiceOver.
+
+	If you are working on a Mac, you can use Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
     * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off
     * <kbd>tab</kbd> navigates to an interactive element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) 
     navigates to the next element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
+	
+	If you are using a Windows PC, you will likely be using the Microsoft Narrator and the key bindings will be a little different.
+	* "Windows Logo Key" + <kbd>Enter</kbd> turns VoiceOver on/off
+    * <kbd>tab</kbd> maintains the same functionality as before
+	* <kbd>Caps Lock</kbd> + <kbd>M</kbd> will read all text on the page starting at your current focus.
+    * To navigate between elements such as headers and landmarks, press <kbd>Caps Lock</kbd> + <kbd>Up Arrow</kbd> and the Narrator will say the name of an element.  Keep doing this until the Narrator lists the type of the element you are looking for.  You may then use <kbd>Caps Lock</kbd> + <kbd>Left Arrow</kbd> or <kbd>Caps Lock</kbd> + <kbd>Right Arrow</kbd> to navigate between elements of this type.
+	* <kbd>Caps Lock</kbd> + <kbd>F1</kbd> will pull up a list of commands for the Microsoft Narrator.
+	
+	Please keep in mind that using different screen readers with different browsers may yield unexpected results.
     <br/><br/>
 
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+4. When verifying with VoiceOver, use Chrome on a Mac for the best experience.  If you are on a Windows PC using the Microsoft Narrator, we recommend that you use either Internet Explorer or Microsoft Edge as your browser. Either way, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
