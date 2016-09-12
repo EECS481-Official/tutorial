@@ -11,6 +11,7 @@ use the verify button to check whether your solution is correct.
 
 3. You can also verify the code sample output using VoiceOver - Apple's built-in screen reader (other screen readers work too). Here are some instructions for navigating with VoiceOver:
     * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off
+    (If these keys are not available on your computer, go to "System Preferences" then "Accessibility" then check the "Enable VoiceOver" box)
     * <kbd>tab</kbd> navigates to an interactive element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) 
     navigates to the next element
