@@ -18,6 +18,8 @@ use the verify button to check whether your solution is correct.
     (repeatedly) navigates by headings
     <br/><br/>
 
+3a. For Windows, open narrator by clicking <kbd>Windows Key</kbd> + <kbd>Enter</kbd>.
+
 4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
