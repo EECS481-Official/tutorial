@@ -17,6 +17,7 @@ layout_data:
   examples:
     - title: Semantic Heading
       description: |
+        Throughout Section 2, semantic elements are those whose name describe its content.
         The heading below is a real heading and uses an `<h3>` tag. If you are on a
         Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> and then press
         <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> to jump to
