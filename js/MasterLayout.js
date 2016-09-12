@@ -39,7 +39,7 @@ export default function MasterLayout({className, children}) {
       <TOC togglable={true} />
       <ExtensionPoint tags={['main']}>
         <div id="exerslide-main" className="flex-column">
-          <img style={{alignSelf: 'flex-end', width: 122, margin: 10}} src="logo-teach-access.svg" alt="Teach Access Bridge" />
+          <img style={{alignSelf: 'flex-end', width: 122, height: 51.64, margin: 10}} src="logo-teach-access.svg" alt="Teach Access Bridge" />
           {children}
           <Toolbar className="flex-item-fix" />
         </div>
