@@ -139,6 +139,11 @@ layout_data:
             btn.getAttribute('aria-describedby') === 'description',
           "It doesn't look like you added an aria-describedby to the input field"
         );
+
+      note: |
+        
+        [More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)        
 ---
 Accessible labels are necessary to make several other types of elements 
 understandable,

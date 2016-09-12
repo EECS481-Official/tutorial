@@ -127,6 +127,12 @@ layout_data:
           dom.querySelectorAll('td').length == 2,
           "Are you using semantic td tags?"
         );
+
+      note: |
+        
+        [More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
+        
 ---
 Tables help screen readers process information presented in a tabular format.
 When information is presented using table markup, screen reader users can

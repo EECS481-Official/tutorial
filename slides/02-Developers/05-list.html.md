@@ -73,6 +73,12 @@ layout_data:
           dom.querySelectorAll('[role="listitem"]').length ==3 || dom.querySelectorAll('li').length == 3,
           "Wrap the items in an 'li' element or in a 'span' OR 'div' with the role 'listitem'."
         );
+
+      note: |
+        
+        [More about ARIA states and 
+        properties](http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def)
+        
 ---
 Semantic lists help screen readers understand the type of the element and the 
 number of items in the element, and provide
