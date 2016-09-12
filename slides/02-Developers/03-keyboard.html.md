@@ -57,7 +57,7 @@ layout_data:
         );
 
 ---
-Make all interactive elements work with  a keyboard. For example, make sure a 
+It is good practice to make all interactive elements work with  a keyboard. For example, make sure a 
 button that you activate
 with a click is also in the keyboard tab sequence and that pressing enter or space
 activates it. Set the `tabindex` attribute to `0` to include an element in the 
