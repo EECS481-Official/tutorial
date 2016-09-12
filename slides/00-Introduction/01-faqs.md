@@ -10,7 +10,7 @@ Teach Access is a collective of leading tech companies, academic institutions an
 
 **What is the Teach Access Tutorial?**
 
-The Teach Access Tutorial is a hands-on tutorial that covers some best practices for writing accessible software and designing inclusive experiences.
+The Teach Access Tutorial is a hands-on tutorial that covers some best practices for writing accessible software and designing inclusive experiences. 
 
 **What assistive technologies can I use with this tutorial?**
 
@@ -19,16 +19,16 @@ The tutorial should work with most assistive technologies, but Apple's VoiceOver
 **Where can I find more information on accessibility?**
 
 Here are a few resources to get you started:
-- Web Content Accessibility Guidelines: <https://www.w3.org/WAI/intro/wcag>
-- WebAIM: <http://webaim.org/>
+- Web Content Accessibility Guidelines: <em><https://www.w3.org/WAI/intro/wcag></em>
+- WebAIM: <em><http://webaim.org/></em>
 
 **What are some good, free, developer tools for accessibility?**
 
-- WAVE by WebAIM for general website accessibility: <http://wave.webaim.org/>
+- WAVE by WebAIM for general website accessibility: <em><http://wave.webaim.org/></em>
 - Juicy Studio's Readability Test: 
-<http://juicystudio.com/services/readability.php>
-- Vischeck's Color Blindness Checker: <http://www.vischeck.com/>
+<em><http://juicystudio.com/services/readability.php></em>
+- Vischeck's Color Blindness Checker: <em><http://www.vischeck.com/></em>
 
 **Are there jobs in the field of accessibility?**
 
-Definitely, and the industry is growing. Take a look here: <https://twitter.com/a11yjobs>
+Definitely, and the industry is growing. Take a look here: <em><https://twitter.com/a11yjobs></em>
