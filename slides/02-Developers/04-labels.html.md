@@ -96,7 +96,7 @@ layout_data:
 
     - title: Inaccessible Button exercise
       description: |
-        Add an `aria-label` to the button below and label it 'search' to
+        Add an `aria-label` to the button below and label it "search" to
         make it accessible.
 
       code: |
