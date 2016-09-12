@@ -36,7 +36,7 @@ layout_data:
       description: |
         The list below uses ARIA roles to express the semantics of a list from a generic div structure.
         This approach to expressing list structure can be used if it is not possible to use the native
-        HTML list tags.
+        HTML ```list``` tags.
 
         Notice that the default list styling is not applied. That is because the browser's default
         stylesheet targets ```ul``` and ```ol``` tags.
@@ -53,7 +53,7 @@ layout_data:
     - title: Unsemantic List exercise
       description: |
         Update the example below so that the items are expressed as a list. The easiest way to
-        make this semantic is to use a list tag. If that is not
+        make this semantic is to use a ```list``` tag. If that is not
         possible, wrap the elements in a container and give
         it a role of ```list```. The individual items will need to be identified with a role of ```listitem```.
 
