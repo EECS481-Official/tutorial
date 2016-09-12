@@ -17,6 +17,8 @@ layout_data:
         and <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
         Colour Contrast Check Tool</a> are examples of tools available online.
 
+        Color Contrast can become very interesting when night mode is being used. Typical night mode features are to flop black and white, so everything is white text on a black background or to make everything darker to eliminate blue light. When color and blue light is reduced however, it can make readability for color blind or those with poor vision exponentially more difficult.
+
         For the two house icons below, the color contrast has been calculated
         using the Colour Contrast Analyser. For your exercise below, please use the
         <a href="http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333">
