@@ -68,6 +68,8 @@ layout_data:
         - `<footer>`, `<div role="contentinfo">` - information about the page 
         such as copyright, help, and information links that appear in the 
         footer
+        
+        More about semantic elements: http://www.w3schools.com/html/html5_semantic_elements.asp
 
         [Other ARIA roles are documented in the WCAG 
         spec.](http://www.w3.org/TR/wai-aria/roles#document_structure_roles)
