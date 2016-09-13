@@ -21,6 +21,15 @@ If you want to generate the presentation on your compute, you need to
    ```
    npm install -g exerslide-cli
    ```
+   or
+   ```
+   sudo ln -s `which nodejs` /usr/bin/node
+   sudo install -g exerslide-cli
+   ```
+   If using Debian/Ubuntu, you first need to create a symlink for the 'node' command.
+   This is needed because in the node was changed to nodejs to prevent name collisions for
+   the Linux OS. The second command allows writing to system library folders Which is required
+   for the global install to work.
 
 2. Clone this repository
 
