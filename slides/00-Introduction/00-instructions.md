@@ -4,7 +4,7 @@ chapter: Introduction
 ---
 Welcome to the Teach Access Tutorial! This resource is part of the Teach Access Initiative, and provides best practices for making accessible mobile and web apps. This tutorial currently provides basic training for developers and designers, with more disciplines to come! If you are new to accessibility, you've come to the right place - the following material will help you get a solid footing on accessibility via hands-on exercises and useful reference guides. Follow the instructions below for using and interacting with the tutorial.
 
-1. You can use the left and right arrow keys to navigate through the slides.
+1. You can use the left and right arrow keys to navigate through the slides. You can also use the up and down keys to navigate through each slide.
 
 2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,
 use the verify button to check whether your solution is correct.
