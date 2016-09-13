@@ -16,9 +16,16 @@ use the verify button to check whether your solution is correct.
     navigates to the next element
     * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> 
     (repeatedly) navigates by headings
+
+    For Windows users, you may use Windows Narrator, Microsoft's built-in screen reader, on Windows 7, 8, and XP machines.
+    * <kbd>WIN</kbd> + <kbd>Enter</kbd> turns Narrator on
+    * <kbd>Caps Lock</kbd> + <kbd>Esc</kbd> opens the "Exit Narrator" menu. Click "Yes" to exit Narrator.
+    * <kbd>Caps Lock</kbd> + <kbd>Space</kbd> turns on Scan Mode
+    * Use the arrow keys to navigate through items on the page. press the spacebar to select an item.
+    * <kbd>Ctrl</kbd> + Left/Right arrows will move the navigator by word. <kbd>Ctrl</kbd> + Up/Down arrows will move by paragraphs.
     <br/><br/>
 
-4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
+4. When verifying with VoiceOver/Narrator, use Chrome on a Mac for the best experience. However, the "Verify" button provided after each exercise will work with any browser/OS combination.
 
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
