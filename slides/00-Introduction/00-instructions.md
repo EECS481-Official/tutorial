@@ -23,4 +23,4 @@ use the verify button to check whether your solution is correct.
 5. ARIA stands for Accessible Rich Internet Applications, a W3C standard for 
    building accessible user interfaces on the web.
 
-Happy learning! <i class="fa fa-smile-o"><i class="accessible_elem">Smiley Icon</i></i>
+Happy learning! <i class="fa fa-smile-o" aria-label="Smiley icon"><i class="accessible_elem">Smiley Icon</i></i>
