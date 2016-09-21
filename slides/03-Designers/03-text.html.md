@@ -42,6 +42,7 @@ layoutData:
         will notice that the words bleed outside the box below. Try fixing this example
         by specifying the width and height as relative units, such as ems. Set the height
         to 3em and width to 10em and verify your answers.
+        Example: `style="height:3em; width:10em"`.
 
       code: |
         <div
